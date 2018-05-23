@@ -35,7 +35,7 @@
 ### <a name="javascript"></a> JavaScript
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-1 | [@sarbull](https://github.com/sarbull)/[**rest-grid**](https://github.com/sarbull/rest-grid) | REST Grid Component written for Angular2 |
+1 | [@sarbull](https://github.com/sarbull)/[**rest-grid**](https://github.com/sarbull/rest-grid) | REST Grid Component written for Angular2 | [:arrow_upper_right:](http://github.com/sarbull/rest-grid)
 5038 | [@mishoo](https://github.com/mishoo)/[**UglifyJS2**](https://github.com/mishoo/UglifyJS2) | JavaScript parser / mangler / compressor / beautifier toolkit | [:arrow_upper_right:](http://lisperator.net/uglifyjs/)
 3758 | [@IonicaBizau](https://github.com/IonicaBizau)/[**git-stats**](https://github.com/IonicaBizau/git-stats) | :four_leaf_clover: Local git statistics including GitHub-like contributions calendars. |
 2112 | [@IonicaBizau](https://github.com/IonicaBizau)/[**scrape-it**](https://github.com/IonicaBizau/scrape-it) | :crystal_ball: A Node.js scraper for humans. | [:arrow_upper_right:](http://ionicabizau.net/blog/30-how-to-write-a-web-scraper-in-node-js)
